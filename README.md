@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:3a3a3a,100:000000&text=Hey,%20I'm%20Toky&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Software%20Developer%20•%20Building%20&%20breaking%20things&descAlignY=55&descColor=cccccc&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Hey,%20I'm%20Toky&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Software%20Developer%20•%20Building%20&%20breaking%20things&descAlignY=55&descColor=cccccc&descSize=18&animation=fadeIn"/>
 <br>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Learning+%7C+Coding+%7C+Breaking+%7C+Understanding;Self-taught+%26+always+curious;One+project+at+a+time." />
 <br>
@@ -52,6 +52,6 @@ I like understanding **how things really work** under the hood — reading, expe
 </div>
 <br>
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:3a3a3a,100:000000&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer"/>
 <sub>⚡ Thanks for stopping by — feel free to explore my repos!</sub>
 </div>
