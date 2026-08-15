@@ -1,39 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=TOKY&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Student%20%40%2042%20%E2%80%A2%20Developer&descSize=18&descColor=b0b0b0&descAlignY=62&color=0:050505,45:111111,75:260707,100:050505&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=TOKY&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Student%20%40%2042%20%E2%80%A2%20Developer&descAlignY=62&descSize=18&descColor=aaaaaa&color=0:050505,50:171717,100:3b0a0a" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=serif&weight=600&size=22&duration=2800&pause=900&color=9B9B9B&center=true&vCenter=true&width=600&lines=Student+%40+42;I+like+to+code.;Learning+by+building.;Breaking+things+to+understand+them.;One+project+at+a+time." />
+<img src="https://readme-typing-svg.demolab.com/?font=serif&weight=600&size=22&duration=3000&pause=1000&color=9B9B9B&center=true&vCenter=true&width=650&lines=Student+%40+42;I+like+to+code.;Learning+%7C+Building+%7C+Breaking+%7C+Understanding;One+project+at+a+time." />
 
 <br><br>
 
-**⚔️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚔️**
+`⚔️` `☾` `†` `☠️` `†` `☾` `⚔️`
 
 </div>
 
-## † About Me
+---
+
+<div align="center">
+
+## † 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊 †
+
+</div>
+
+> *“The path is long. The code is darker.”*
 
 I'm a **student at 42** who enjoys coding and learning by building things.
 
 I like understanding how things work, solving problems, and experimenting with new ideas.
 
-I'm still learning, still making mistakes, and still improving.
+Nothing too fancy.
 
-> *Learn. Build. Break. Understand. Repeat.*
+**Just code, learn, break things, and start again.**
 
 ---
 
 <div align="center">
 
-## 🩸 Technologies
+## ⚔️ 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘 ⚔️
 
 <br>
 
-<img src="https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=c,python,git,linux,github&theme=dark" />
+
+<br><br>
+
+![C](https://img.shields.io/badge/C-0D0D0D?style=for-the-badge\&logo=c\&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge\&logo=python\&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge\&logo=git\&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge\&logo=linux\&logoColor=FFFFFF)
 
 </div>
 
@@ -41,64 +53,35 @@ I'm still learning, still making mistakes, and still improving.
 
 <div align="center">
 
-## ⚔️ The Path
+## ☾ 𝕿𝖍𝖊 𝕻𝖆𝖙𝖍 ☾
 
-```text
-                         ┌───────────────┐
-                         │    42 STUDENT │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     LEARN     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │      CODE     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     BREAK     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │   UNDERSTAND  │
-                         └───────┬───────┘
-                                 │
-                                 └──────────────↻
+```text id="5h6l2u"
+             ┌─────────────────────┐
+             │     42 STUDENT      │
+             └──────────┬──────────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │    LEARN    │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │     CODE    │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │    BREAK    │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │  UNDERSTAND │
+                 └──────┬──────┘
+                        │
+                        └──────────↻
 ```
-
-</div>
-
----
-
-## ☾ Currently
-
-```text
-C          ███████████████░░░░
-Python     ████████████░░░░░░░
-Git        █████████████░░░░░░
-Linux      ██████████░░░░░░░░░
-```
-
-Learning through projects, experimentation, and challenges.
-
----
-
-<div align="center">
-
-## 🦇 Projects
-
-Most of my projects are part of my learning journey at **42**.
-
-I prefer building things that make me understand what's happening behind the scenes.
-
-<br>
-
-**A small step. A small project. A little more understanding.**
 
 </div>
 
@@ -106,24 +89,48 @@ I prefer building things that make me understand what's happening behind the sce
 
 <div align="center">
 
-### ⚔️
-
-```text
-        "The path is long.
-         The code is darker.
-         Keep going."
-```
-
-### †
-
-**C · Python · Git · Linux**
+## 🩸 𝕲𝖎𝖙𝕳𝖚𝖇 𝕾𝖙𝖆𝖙𝖘 🩸
 
 <br>
 
-**Student @ 42**
+<a href="https://github.com/tokiinaina">
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=tokiinaina&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=999999&icon_color=8B0000&ring_color=8B0000"/>
+</a>
+
+<a href="https://github.com/tokiinaina">
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=tokiinaina&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=999999"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🦇 𝕮𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖎𝖔𝖓𝖘 🦇
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050505,35:260707,70:111111,100:050505&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B0000" width="80%"/>
+
+<br><br>
+
+*Learning something new every day.*
+
+<br>
+
+`C` · `Python` · `Git` · `Linux`
+
+<br><br>
+
+⚔️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚔️
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn&color=0:3b0a0a,50:171717,100:050505" width="100%"/>
 
 </div>
