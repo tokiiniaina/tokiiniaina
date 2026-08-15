@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hey,%20I'm%20Toky&fontSize=45&fontAlignY=35&desc=Student%20@%2042%20•%20Building%20&%20breaking%20things&descAlignY=55&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hey,%20I'm%20Toky&fontSize=45&fontAlignY=35&desc=Software%20Developer%20•%20Building%20&%20breaking%20things&descAlignY=55&descSize=18&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Learning+%7C+Coding+%7C+Breaking+%7C+Understanding;Currently+studying+at+42;One+project+at+a+time." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Learning+%7C+Coding+%7C+Breaking+%7C+Understanding;Self-taught+%26+always+curious;One+project+at+a+time." />
 
 <br>
 
@@ -19,7 +19,6 @@
 ## 🧠 About Me
 
 ```yaml
-student:    "42 Antananarivo"
 role:       "Developer & Problem Solver"
 focus:      ["Learning fundamentals", "Building small tools", "Breaking things on purpose"]
 currently:  "Leveling up in C, Python & Linux"
@@ -48,7 +47,7 @@ I like understanding **how things really work** under the hood — reading, expe
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tokiiniaina&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com/?user=tokiiniaina&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 
 </div>
 
