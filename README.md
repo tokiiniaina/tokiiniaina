@@ -19,7 +19,7 @@
 ## 🧠 About Me
 
 ```yaml
-student:    "42 Antananarivo"
+student:    ""
 role:       "Developer & Problem Solver"
 focus:      ["Learning fundamentals", "Building small tools", "Breaking things on purpose"]
 currently:  "Leveling up in C, Python & Linux"
