@@ -54,12 +54,12 @@ philosophy:  "Understand it, break it, rebuild it better"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tokiiniaina&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokiiniaina&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tokiiniaina&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokiiniaina&layout=compact&theme=tokyonight" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=tokiiniaina&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com/?user=tokiiniaina&theme=tokyonight" />
 
 </div>
 
