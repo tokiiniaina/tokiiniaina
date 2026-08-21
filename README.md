@@ -4,16 +4,18 @@
 
 ### Software Developer · Systems · Python · C · Linux
 
-`learn → build → break → understand → rebuild`
+```text
+learn → build → break → understand → rebuild
+```
 
 <br>
 
-<a href="https://github.com/tokiiniaina">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/tokiiniaina?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-8B5CF6?style=flat-square&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/tokiiniaina)
+[![Repositories](https://img.shields.io/badge/Repositories-8B5CF6?style=flat-square\&logo=github\&logoColor=white)](https://github.com/tokiiniaina?tab=repositories)
+
+<br><br>
+
+> Building things to understand how they work.
 
 </div>
 
@@ -24,16 +26,12 @@
 ```text
 Developer & problem solver.
 
-I like understanding what happens underneath the abstraction —
-not only making things work, but understanding why they work.
+I enjoy going underneath the abstraction:
+reading source code, experimenting, breaking things,
+debugging weird behavior, then rebuilding it better.
 
-Currently exploring:
-
-→ C
-→ Python
-→ Linux
-→ Git & CLI tools
-→ systems fundamentals
+I don't want to only know WHAT works.
+I want to understand WHY it works.
 ```
 
 > `Every bug is a system teaching you something.`
@@ -43,23 +41,26 @@ Currently exploring:
 ## `/now`
 
 ```yaml
-learning:
-  - C fundamentals
-  - Python
-  - Linux
+focus:
+  - fundamentals
   - systems programming
-
-building:
-  - small tools
-  - experiments
+  - Linux
+  - CLI tools
   - automation
-  - things I probably shouldn't break
 
-mindset:
-  - understand first
-  - experiment often
-  - break things intentionally
-  - rebuild better
+currently_learning:
+  - C
+  - Python
+  - Bash
+  - Git
+  - Linux internals
+
+approach:
+  - understand
+  - experiment
+  - break
+  - debug
+  - rebuild
 ```
 
 ---
@@ -68,9 +69,67 @@ mindset:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,github&theme=dark&perline=6" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,python,bash&theme=dark&perline=6" />
+
+<br><br>
+
+### Tools & Systems
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark&perline=6" />
 
 </div>
+
+---
+
+## `/what-i-build`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01` — Systems
+
+Low-level experiments and projects focused on understanding how software works closer to the machine.
+
+**C · Linux · memory · processes**
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02` — Tools
+
+Small utilities designed to solve annoying problems and automate repetitive tasks.
+
+**Python · Bash · CLI**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `03` — Experiments
+
+Small projects created specifically to learn something new.
+
+**prototypes · debugging · reverse engineering**
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04` — Open Source
+
+Reading projects, exploring codebases and learning from the way other developers solve problems.
+
+**Git · GitHub · collaboration**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -80,55 +139,57 @@ mindset:
 
 <table>
 <tr>
+
 <td width="50%">
 
-### `01` · Systems
+### 🔧 Project 01
 
-Small projects built to understand
-how software works closer to the machine.
+`coming soon`
 
-**C · Linux · Bash**
+A project built around understanding a technical concept from the ground up.
 
 </td>
 
 <td width="50%">
 
-### `02` · Tools
+### ⚙️ Project 02
 
-Practical scripts and utilities designed
-to automate repetitive problems.
+`coming soon`
 
-**Python · CLI · Automation**
+A practical tool designed to automate a repetitive workflow.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### `03` · Experiments
+### 🧪 Project 03
 
-Small experiments, prototypes and
-deliberately broken things.
+`experiment`
 
-**Learning · Debugging · Curiosity**
+A small experiment focused on learning, testing and breaking things intentionally.
 
 </td>
 
 <td width="50%">
 
-### `04` · Open Source
+### 🐧 Project 04
 
-Exploring projects, reading code and
-learning from other developers.
+`linux`
 
-**Git · GitHub · Collaboration**
+A collection of Linux / CLI experiments and utilities.
 
 </td>
+
 </tr>
 </table>
 
 </div>
+
+> More projects → [github.com/tokiiniaina](https://github.com/tokiiniaina?tab=repositories)
 
 ---
 
@@ -136,25 +197,51 @@ learning from other developers.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tokiiniaina&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" height="170"/>
+[![Followers](https://img.shields.io/github/followers/tokiiniaina?style=for-the-badge\&logo=github\&label=FOLLOWERS)](https://github.com/tokiiniaina)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokiiniaina&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="170"/>
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-8B5CF6?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tokiiniaina?tab=repositories)
 
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=tokiiniaina&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C9D1D9&sideLabels=C9D1D9" />
+[![Profile views](https://komarev.com/ghpvc/?username=tokiiniaina\&style=for-the-badge\&color=8B5CF6\&label=PROFILE+VIEWS)](https://github.com/tokiiniaina)
 
 </div>
 
 ---
 
-## `/activity`
+## `/principles`
+
+```text
+01. Understand before copying.
+
+02. Small projects > endless tutorials.
+
+03. Breaking things is part of learning.
+
+04. Read the error message.
+
+05. Know your tools.
+
+06. Prefer fundamentals over magic.
+
+07. Build → fail → debug → repeat.
+```
+
+---
+
+## `/currently`
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=tokiiniaina&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=8B5CF6&area=true&hide_border=true"
-/>
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   C                  █████████░░░░░   learning      │
+│   Python             ██████████░░░░   building      │
+│   Linux              █████████░░░░░   exploring     │
+│   Git                ██████████░░░░   daily         │
+│   Systems            ███████░░░░░░░   diving into   │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -162,20 +249,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=tokiiniaina&
 
 ## `/contact`
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   Have an interesting idea?                 │
-│   Let's build something.                    │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
 <div align="center">
 
-<a href="https://github.com/tokiiniaina">
-  <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tokiiniaina)
 
 <br><br>
 
@@ -188,11 +264,15 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=tokiiniaina&
 <div align="center">
 
 ```text
-────────────────────────────────────────────
-          built with curiosity
-────────────────────────────────────────────
+────────────────────────────────────────────────────
+
+            built with curiosity
+
+        learn · build · break · understand
+
+────────────────────────────────────────────────────
 ```
 
-<sub>© 2026 Toky · learn · build · break · understand</sub>
+<sub>© 2026 Toky</sub>
 
 </div>
