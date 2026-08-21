@@ -1,34 +1,23 @@
 <div align="center">
 
-# `toky`
+# `tokyiniaina`
 
 ### Software Developer · Systems · Python · C · Linux
 
-<br>
-
-> **understand the system · build the tool · break the abstraction**
+```text
+learn → build → break → understand → rebuild
+```
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/tokiiniaina)
 [![Repositories](https://img.shields.io/badge/Repositories-8B5CF6?style=flat-square\&logo=github\&logoColor=white)](https://github.com/tokiiniaina?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=tokiiniaina\&style=flat-square\&color=8B5CF6\&label=PROFILE+VIEWS)](https://github.com/tokiiniaina)
-
-<br>
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   learn → build → break → understand → rebuild             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
 ---
 
-## `01` / about
+## `/about`
 
 ```text
 Developer & problem solver.
@@ -45,31 +34,34 @@ I want to understand WHY it works.
 
 ---
 
-## `02` / current focus
-
-<div align="center">
-
-| Focus                |     Status    |
-| :------------------- | :-----------: |
-| **Fundamentals**     |  `deepening`  |
-| **C**                |   `learning`  |
-| **Python**           |   `building`  |
-| **Linux**            |  `exploring`  |
-| **Systems**          | `diving into` |
-| **CLI & Automation** |   `building`  |
-
-</div>
-
-<br>
+## `/now`
 
 ```yaml
-mindset:
-  understand → experiment → break → debug → rebuild
+focus:
+  - fundamentals
+  - systems programming
+  - Linux
+  - CLI tools
+  - automation
+
+currently_learning:
+  - C
+  - Python
+  - Bash
+  - Git
+  - Linux internals
+
+approach:
+  - understand
+  - experiment
+  - break
+  - debug
+  - rebuild
 ```
 
 ---
 
-## `03` / stack
+## `/stack`
 
 <div align="center">
 
@@ -79,7 +71,7 @@ mindset:
 
 <br><br>
 
-### Systems & Tools
+### Tools & Systems
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark&perline=6" />
 
@@ -87,18 +79,17 @@ mindset:
 
 ---
 
-## `04` / what I build
+## `/what-i-build`
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### `01` — Systems
 
-Low-level experiments and projects focused on understanding how software behaves closer to the machine.
+Low-level experiments and projects focused on understanding how software works closer to the machine.
 
-`C` · `Linux` · `memory` · `processes`
+**C · Linux · memory · processes**
 
 </td>
 
@@ -106,23 +97,21 @@ Low-level experiments and projects focused on understanding how software behaves
 
 ### `02` — Tools
 
-Small utilities designed to solve annoying problems and automate repetitive workflows.
+Small utilities designed to solve annoying problems and automate repetitive tasks.
 
-`Python` · `Bash` · `CLI`
+**Python · Bash · CLI**
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### `03` — Experiments
 
-Small projects created to answer a technical question, test an idea or understand a concept.
+Small projects created specifically to learn something new.
 
-`prototypes` · `debugging` · `curiosity`
+**prototypes · debugging · curiosity**
 
 </td>
 
@@ -130,88 +119,83 @@ Small projects created to answer a technical question, test an idea or understan
 
 ### `04` — Open Source
 
-Reading codebases, exploring how projects are structured and learning from other developers.
+Reading projects, exploring codebases and learning from the way other developers solve problems.
 
-`Git` · `GitHub` · `collaboration`
+**Git · GitHub · collaboration**
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## `05` / projects
-
-<div align="center">
+## `/projects`
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🔧 `project-01`
+### 🔧 Project 01
 
-**coming soon**
+`coming soon`
 
 A project built around understanding a technical concept from the ground up.
 
-`systems` · `learning`
-
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ `project-02`
+### ⚙️ Project 02
 
-**coming soon**
+`coming soon`
 
 A practical tool designed to automate a repetitive workflow.
 
-`python` · `automation`
-
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### 🧪 `project-03`
+### 🧪 Project 03
 
-**experiment**
+`experiment`
 
-A small experiment focused on learning, testing and intentionally breaking things.
-
-`research` · `debugging`
+A small experiment focused on learning, testing and breaking things intentionally.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🐧 `project-04`
+### 🐧 Project 04
 
-**linux**
+`linux`
 
-A collection of Linux, shell and CLI experiments.
-
-`linux` · `bash` · `cli`
+A collection of Linux / CLI experiments and utilities.
 
 </td>
-
 </tr>
 </table>
 
-<br>
+> More projects → [github.com/tokiiniaina](https://github.com/tokiiniaina?tab=repositories)
 
-**More projects →** [github.com/tokiiniaina](https://github.com/tokiiniaina?tab=repositories)
+---
+
+## `/github`
+
+<div align="center">
+
+[![Followers](https://img.shields.io/github/followers/tokiiniaina?style=for-the-badge\&logo=github\&label=FOLLOWERS)](https://github.com/tokiiniaina)
+
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-8B5CF6?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tokiiniaina?tab=repositories)
+
+[![Profile views](https://komarev.com/ghpvc/?username=tokiiniaina\&style=for-the-badge\&color=8B5CF6\&label=PROFILE+VIEWS)](https://github.com/tokiiniaina)
 
 </div>
 
 ---
 
-## `06` / principles
+## `/principles`
 
 ```text
 01. Understand before copying.
@@ -231,47 +215,57 @@ A collection of Linux, shell and CLI experiments.
 
 ---
 
-## `07` / github
+## `/currently`
 
 <div align="center">
 
-[![GitHub Followers](https://img.shields.io/github/followers/tokiiniaina?style=for-the-badge\&logo=github\&label=FOLLOWERS)](https://github.com/tokiiniaina)
+<table>
+<tr>
+<td align="center">
 
-[![Repositories](https://img.shields.io/badge/REPOSITORIES-8B5CF6?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tokiiniaina?tab=repositories)
+<code>C</code><br> <sub>learning</sub>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tokiiniaina\&style=for-the-badge\&color=8B5CF6\&label=PROFILE+VIEWS)](https://github.com/tokiiniaina)
+</td>
 
-<br><br>
+<td align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tokiiniaina\&theme=dark\&hide_border=true\&ring=8B5CF6\&fire=8B5CF6\&currStreakLabel=8B5CF6)](https://git.io/streak-stats)
+<code>Python</code><br> <sub>building</sub>
+
+</td>
+
+<td align="center">
+
+<code>Linux</code><br> <sub>exploring</sub>
+
+</td>
+
+<td align="center">
+
+<code>Git</code><br> <sub>daily</sub>
+
+</td>
+
+<td align="center">
+
+<code>Systems</code><br> <sub>diving into</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## `08` / activity
+## `/contact`
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tokiiniaina\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/tokiiniaina)
-
-</div>
-
----
-
-## `09` / contact
-
-<div align="center">
-
-<a href="https://github.com/tokiiniaina">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tokiiniaina)
 
 <br><br>
 
-```text
-open to interesting projects & collaborations
-```
+<code>open to interesting projects & collaborations</code>
 
 </div>
 
@@ -281,18 +275,22 @@ open to interesting projects & collaborations
 
 <br>
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│           built with curiosity              │
-│                                              │
-│     learn · build · break · understand      │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center">
+
+<code>built with curiosity</code>
+
+<br><br>
+
+<code>learn · build · break · understand</code>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<sub>© 2026 Toky · built with curiosity</sub>
+<sub>© 2026 Toky</sub>
 
 </div>
