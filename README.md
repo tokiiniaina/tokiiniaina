@@ -1,6 +1,6 @@
 <div align="center">
 
-# `tokyiniaina`
+# `toky`
 
 ### Software Developer · Systems · Python · C · Linux
 
