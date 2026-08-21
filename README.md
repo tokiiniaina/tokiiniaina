@@ -13,10 +13,6 @@ learn → build → break → understand → rebuild
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/tokiiniaina)
 [![Repositories](https://img.shields.io/badge/Repositories-8B5CF6?style=flat-square\&logo=github\&logoColor=white)](https://github.com/tokiiniaina?tab=repositories)
 
-<br><br>
-
-> Building things to understand how they work.
-
 </div>
 
 ---
@@ -115,7 +111,7 @@ Small utilities designed to solve annoying problems and automate repetitive task
 
 Small projects created specifically to learn something new.
 
-**prototypes · debugging · reverse engineering**
+**prototypes · debugging · curiosity**
 
 </td>
 
@@ -135,12 +131,9 @@ Reading projects, exploring codebases and learning from the way other developers
 
 ## `/projects`
 
-<div align="center">
-
 <table>
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔧 Project 01
 
@@ -150,7 +143,7 @@ A project built around understanding a technical concept from the ground up.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Project 02
 
@@ -159,12 +152,10 @@ A project built around understanding a technical concept from the ground up.
 A practical tool designed to automate a repetitive workflow.
 
 </td>
-
 </tr>
 
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧪 Project 03
 
@@ -174,7 +165,7 @@ A small experiment focused on learning, testing and breaking things intentionall
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🐧 Project 04
 
@@ -183,11 +174,8 @@ A small experiment focused on learning, testing and breaking things intentionall
 A collection of Linux / CLI experiments and utilities.
 
 </td>
-
 </tr>
 </table>
-
-</div>
 
 > More projects → [github.com/tokiiniaina](https://github.com/tokiiniaina?tab=repositories)
 
@@ -231,17 +219,39 @@ A collection of Linux / CLI experiments and utilities.
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   C                  █████████░░░░░   learning      │
-│   Python             ██████████░░░░   building      │
-│   Linux              █████████░░░░░   exploring     │
-│   Git                ██████████░░░░   daily         │
-│   Systems            ███████░░░░░░░   diving into   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center">
+
+<code>C</code><br> <sub>learning</sub>
+
+</td>
+
+<td align="center">
+
+<code>Python</code><br> <sub>building</sub>
+
+</td>
+
+<td align="center">
+
+<code>Linux</code><br> <sub>exploring</sub>
+
+</td>
+
+<td align="center">
+
+<code>Git</code><br> <sub>daily</sub>
+
+</td>
+
+<td align="center">
+
+<code>Systems</code><br> <sub>diving into</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -255,7 +265,7 @@ A collection of Linux / CLI experiments and utilities.
 
 <br><br>
 
-`open to interesting projects & collaborations`
+<code>open to interesting projects & collaborations</code>
 
 </div>
 
@@ -263,15 +273,23 @@ A collection of Linux / CLI experiments and utilities.
 
 <div align="center">
 
-```text
-────────────────────────────────────────────────────
+<br>
 
-            built with curiosity
+<table>
+<tr>
+<td align="center">
 
-        learn · build · break · understand
+<code>built with curiosity</code>
 
-────────────────────────────────────────────────────
-```
+<br><br>
+
+<code>learn · build · break · understand</code>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <sub>© 2026 Toky</sub>
 
